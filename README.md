@@ -10,6 +10,6 @@ Project3 Binary_Search_Tree (www.patika.dev)
 * 7. eleman (0) 3. eleman olan 1'den küçk olduğundan rootun sol kısmında 1'in soluna yazılır.
 * 8. eleman (9) roottan büyük olduğundan sağ kısma; 4. eleman olan 8'dende büyük olduğundan 8'in sağına yazılır.
 * 9. eleman (4) roottan küçük olduğundan sol kısma, Sol kısımda da 5. eleman olan 3'ten büyük olduğundan 3'ün sağına yazılır.
-* 10. eleman (2) roottan küçük olduğundan sol kısma yazılır. Sol kısımda 5. eleman olan 3'tende kçük olduğundan 3'ün sol kısmında yerini alır. 
+* 10. eleman (2) roottan küçük olduğundan sol kısma yazılır. Sol kısımda 5. eleman olan 3'tende küçük olduğundan 3'ün sol kısmında yerini alır. 
 
 ![BinarySearchTree](https://github.com/EceYardim/Binary_Search_Tree/blob/main/Binary_Search_Tree_Project.jpg)
